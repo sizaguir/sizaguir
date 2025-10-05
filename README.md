@@ -32,7 +32,7 @@ proyectos y mis intereses.
   - Descripción breve: Proyecto que describe el uso y funcionalidad del argoritmo RSA que está estrechamente relacionado con la materia de matemáticas discretas
   - **Tecnologías**: Python, Tkinter
   - **Estado**: Completado
-  - **Enlace al proyecto**: [Repositorio en GitHub]((https://github.com/sizaguir/Matem-ticas-Discretas.git))
+  - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/sizaguir/Matem-ticas-Discretas.git)
 
 ## Intereses
 - Crear aplicaciones
