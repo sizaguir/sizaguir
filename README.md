@@ -13,19 +13,19 @@ proyectos y mis intereses.
 
 ## Proyectos
 
-- [**Proyecto 1: Proyecto Estructuras**](https://github.com/sizaguir/ProyectoEstructuras.git)
-  - Descripción breve: Proyecto que contiene código fuente sobre una aplicación de vuelos de un Aeropuerto, el cual contene información de aerolineas disponibles y vuelos asignados a cada aerolinea y aeropuerto
+- **Proyecto 1: Proyecto Estructuras**
+  - Descripción breve: Proyecto que contiene código fuente sobre una aplicación de vuelos de un Aeropuerto, el cual contene información de aerolineas disponibles y vuelos asignados a cada aerolinea y aeropuerto.
   - **Tecnologías**: Java, NetBeans, JavaFXML, SceneBuilder
   - **Estado**: Completado
   - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/sizaguir/ProyectoEstructuras.git)
 
-- [**Proyecto 2: ProyectoBasedeDatos**](https://github.com/sizaguir/ProyectoBasedeDatos.git)
-  - Descripción breve: Explica de qué trata el proyecto.
+- **Proyecto 2: ProyectoBasedeDatos**
+  - Descripción breve: Proyecto que contiene un sistema similar al de Aula Virtual el cual está conectado a una base de datos con la información de estudiantes, docentes y personal administrativo de la Universidad.
   - **Tecnologías**: Python, MySQL, Visual Studio Code
   - **Estado**: Completado
   - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/sizaguir/ProyectoBasedeDatos.git)
 
-- [**Proyecto 3: POO_Proyecto**](https://github.com/Ariel-Vargas/POO_Proyecto.git)
+- **Proyecto 3: POO_Proyecto**
   - Descripción breve: Proyecto que contiene una sistema de compra-venta de vehículos.
   - **Tecnologías**: Java, NetBeans, JavaFXML, SceneBuilder
   - **Estado**: Completado
