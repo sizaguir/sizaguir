@@ -31,9 +31,6 @@ proyectos y mis intereses.
   - **Estado**: Completado
   - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/Ariel-Vargas/POO_Proyecto.git)
 
-## Intereses
-* [Lista de tus intereses]
-
 ## Contacto
 Puedes contactarme en mi correo institucional: spizagui@espol.edu.ec.
 
