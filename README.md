@@ -28,11 +28,11 @@ proyectos y mis intereses.
   - **Estado**: Completado
   - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/sizaguir/ProyectoBasedeDatos.git)
 
-- **Proyecto 3: POO_Proyecto**
-  - Descripción breve: Proyecto que contiene una sistema de compra-venta de vehículos.
-  - **Tecnologías**: Java, NetBeans, JavaFXML, SceneBuilder
+- **Proyecto 3: Prooyecto Matematicas-Discretas**
+  - Descripción breve: Proyecto que describe el uso y funcionalidad del argoritmo RSA que está estrechamente relacionado con la materia de matemáticas discretas
+  - **Tecnologías**: Python, Tkinter
   - **Estado**: Completado
-  - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/Ariel-Vargas/POO_Proyecto.git)
+  - **Enlace al proyecto**: [Repositorio en GitHub]((https://github.com/sizaguir/Matem-ticas-Discretas.git))
 
 ## Intereses
 - Crear aplicaciones
