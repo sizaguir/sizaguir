@@ -33,13 +33,7 @@ proyectos y mis intereses.
   - **Estado**: Completado
   - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/sizaguir/Sistema_de_Gestion_Aeroportuaria-)
 
-- **Proyecto 4: Plataforma de Administración Académica**
-  - Descripción breve: Proyecto que contiene un sistema similar al de Aula Virtual el cual está conectado a una base de datos con la información de estudiantes, docentes y personal administrativo de la Universidad.
-  - **Tecnologías**: Python, MySQL, Visual Studio Code
-  - **Estado**: Completado
-  - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/sizaguir/Plataforma_de_Administracion_Academica)
-
-- **Proyecto 5: Simulador de Criptografía RSA**
+- **Proyecto 4: Simulador de Criptografía RSA**
   - Descripción breve: Proyecto que describe el uso y funcionalidad del argoritmo RSA que está estrechamente relacionado con la materia de matemáticas discretas
   - **Tecnologías**: Python, Tkinter
   - **Estado**: Completado
