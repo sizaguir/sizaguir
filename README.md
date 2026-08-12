@@ -10,8 +10,8 @@ proyectos y mis intereses.
   
 ## Información personal
 * Nombre: Sofía Izaguirre
-* Ocupación: Estudiante
-* Lugar de residencia: Guayas
+* Ocupación: Estudiante en la Escuela Superior Politécnica del Litoral (ESPOL)
+* Lugar de residencia: Guayaquil, Ecuador
 
 ## Proyectos
 
@@ -40,9 +40,11 @@ proyectos y mis intereses.
   - **Enlace al proyecto**: [Repositorio en GitHub](https://github.com/sizaguir/Simulador_de_Criptografia_RSA)
 
 ## Intereses
-- Crear aplicaciones
-- Desarrollo en front-end
-- Programar sistemas web
+- Desarrollo de aplicaciones web en front-end
+
+- Gestión de ventas y marketing digital
+
+- Diseño de interfaces de usuario (UI) y experiencia de usuario (UX)
 
 ## Contacto
 Puedes contactarme en mi correo institucional: spizagui@espol.edu.ec.
